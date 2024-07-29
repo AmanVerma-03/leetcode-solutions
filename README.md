@@ -16,11 +16,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0441-arranging-coins](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0441-arranging-coins](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0441-arranging-coins) |
 ## Divide and Conquer
 |  |
