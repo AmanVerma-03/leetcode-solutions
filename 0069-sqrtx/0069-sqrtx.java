@@ -1,17 +1,23 @@
 class Solution {
     public int mySqrt(int x) {
-       if (x < 2) {
+        if (x < 2) {
             return x;
         }
         
-        // Initial guess can start from the number itself
-        long y = x;
-        
-        // Apply Newton's method
-        while (y * y > x) {
-            y = (y + x / y) / 2;
+        int left = 0, right = x / 2 + 1;
+        while (left <= right) {
+            int mid = left + (right - left) / 2;
+            long square = (long) mid * mid;  // Use long to avoid overflow
+            
+            if (square == x) {
+                return mid;
+            } else if (square < x) {
+                left = mid + 1;
+            } else {
+                right = mid - 1;
+            }
         }
         
-        return (int) y;
+        return right;
     }
 }
