@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0374-guess-number-higher-or-lower](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
