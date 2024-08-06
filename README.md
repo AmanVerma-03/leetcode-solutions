@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1791-richest-customer-wealth](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1791-richest-customer-wealth) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Math
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Counting
 |  |
 | ------- |
