@@ -1,9 +1,10 @@
 class Solution {
     public int[] twoSum(int[] numbers, int target) {
         int low = 0;
-        int high = numbers.length - 1;
+        int n = numbers.length;
+        int high = n - 1;
         
-        while (low < high) {
+        while (low <= high) {
             int sum = numbers[low] + numbers[high];
             
             if (sum == target) {
@@ -14,7 +15,6 @@ class Solution {
                 high--;
             }
         }
-        
-        throw new IllegalArgumentException("No two sum solution"); // Handle the case where no pair is found
+        return new int[] { -1, -1 };
     }
 }
