@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -93,9 +94,30 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Interactive
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
+## Tree
+|  |
+| ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Depth-First Search
+|  |
+| ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 <!---LeetCode Topics End-->
