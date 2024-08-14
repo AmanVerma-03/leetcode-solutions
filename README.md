@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0441-arranging-coins](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0441-arranging-coins) |
+| [2383-add-two-integers](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2383-add-two-integers) |
 ## Divide and Conquer
 |  |
 | ------- |
