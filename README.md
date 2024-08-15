@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0135-candy](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0135-candy](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0135-candy) |
 | [0890-lemonade-change](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0890-lemonade-change) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 <!---LeetCode Topics End-->
