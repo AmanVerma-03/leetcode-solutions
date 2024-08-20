@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [1894-merge-strings-alternately](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1894-merge-strings-alternately) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
