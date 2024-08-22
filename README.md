@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0959-3sum-with-multiplicity](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0959-3sum-with-multiplicity) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1791-richest-customer-wealth](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1791-richest-customer-wealth) |
