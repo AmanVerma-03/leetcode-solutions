@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0015-3sum) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0001-two-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0959-3sum-with-multiplicity](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0959-3sum-with-multiplicity) |
