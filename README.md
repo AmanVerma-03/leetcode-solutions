@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0135-candy](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0189-rotate-array) |
@@ -173,5 +174,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0136-single-number) |
 | [0476-number-complement](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
