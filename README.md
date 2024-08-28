@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0890-lemonade-change](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0890-lemonade-change) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0001-two-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0560-subarray-sum-equals-k](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0959-3sum-with-multiplicity](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0959-3sum-with-multiplicity) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -176,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0136-single-number) |
 | [0476-number-complement](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0476-number-complement) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
