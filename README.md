@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Math
 |  |
 | ------- |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
