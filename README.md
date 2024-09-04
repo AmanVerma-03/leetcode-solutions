@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0890-lemonade-change](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0890-lemonade-change) |
+| [0906-walking-robot-simulation](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0906-walking-robot-simulation) |
 | [0959-3sum-with-multiplicity](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0959-3sum-with-multiplicity) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0906-walking-robot-simulation](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0906-walking-robot-simulation) |
 | [0959-3sum-with-multiplicity](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0959-3sum-with-multiplicity) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0906-walking-robot-simulation](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
