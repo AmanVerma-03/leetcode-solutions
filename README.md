@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [1791-richest-customer-wealth](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1791-richest-customer-wealth) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0906-walking-robot-simulation](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2132-convert-1d-array-into-2d-array) |
