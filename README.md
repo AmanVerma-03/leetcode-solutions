@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-walking-robot-simulation](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0906-walking-robot-simulation) |
 | [0959-3sum-with-multiplicity](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0959-3sum-with-multiplicity) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1435-xor-queries-of-a-subarray](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -208,12 +209,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0136-single-number) |
 | [0476-number-complement](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0476-number-complement) |
+| [1435-xor-queries-of-a-subarray](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1435-xor-queries-of-a-subarray](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Dynamic Programming
 |  |
