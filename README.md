@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0441-arranging-coins](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Simulation
 |  |
@@ -248,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
