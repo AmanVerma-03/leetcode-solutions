@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1894-merge-strings-alternately) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0906-walking-robot-simulation](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0906-walking-robot-simulation) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2155-find-missing-observations) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0342-power-of-four](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0342-power-of-four) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Backtracking
 |  |
 | ------- |
