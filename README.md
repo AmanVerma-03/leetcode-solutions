@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0224-basic-calculator](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0342-power-of-four](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0441-arranging-coins) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0224-basic-calculator](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0224-basic-calculator](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0224-basic-calculator) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0342-power-of-four](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0342-power-of-four) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
