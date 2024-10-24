@@ -18,28 +18,30 @@ public:
         vector<int> vis(n, 0);  // To track visited cities
         int cnt = 0;  // Count of provinces
 
-        // Iterate over each city
-        for (int i = 0; i < n; i++) {
-            if (!vis[i]) {  // If the city is unvisited
-                cnt++;  // Found a new province
-                queue<int> q;
-                q.push(i);
-                vis[i] = 1;  // Mark the city as visited
+      queue<int>q ;
+      for(int i = 0 ; i < n ; i++)
+    {
+         if (vis[i]==false)
+         {
+            cnt++ ;
+            q.push(i);
+            vis[i] = true ;
+         }
+         while(!q.empty())
+         {
+            int u = q.front() ;
+            q.pop() ;
 
-                // Perform BFS
-                while (!q.empty()) {
-                    int node = q.front();
-                    q.pop();
-                    // Visit all neighbors of the current city (node)
-                    for (auto it : adjls[node]) {
-                        if (!vis[it]) {
-                            vis[it] = 1;  // Mark as visited
-                            q.push(it);  // Add the neighbor to the queue for further exploration
-                        }
-                    }
+            for(int &v : adjls[u])
+            {
+                if(vis[v] == false)
+                {
+                    q.push(v);
+                    vis[v] = true ;
                 }
             }
-        }
+         }
+    }
 
         return cnt;  // Return the number of provinces (connected components)
     }
