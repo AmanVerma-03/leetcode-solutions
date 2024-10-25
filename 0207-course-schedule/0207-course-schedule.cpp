@@ -1,58 +1,58 @@
 class Solution {
-public:
-    bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
 
+private : 
 
-        int n = prerequisites.size() ;
-       
-       int count = 0 ;
+bool iscycleDFS(vector<int> adjl[] , vector<bool>& visi , vector<bool>& inRecur , int u)
+{
+    visi[u] = true ;
+    inRecur[u] = true ;
 
-        vector<int>indegree(numCourses , 0);
-
-        vector<int>adj[numCourses] ;
-        queue<int>q ; 
-
-        for (auto &p : prerequisites) {
-
-
-
-          int course = p[0];
-          int prerequisite = p[1];
-          adj[prerequisite].push_back(course);
-          indegree[course]++;
-
+    for(int &v : adjl[u])
+    {
+        // if the current node is not visited then we can 
+     
+      if (visi[v] == false && iscycleDFS(adjl,visi,inRecur,v))
+        {
+          return true ;
+        }
+      
+      if (inRecur[v] == true)
+      {
+        return true ;
+      }
+      
+        
+    }
+    inRecur[u] = false ;
+      return false ;
 }
 
 
+
+
+public:
+    bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
+
+        vector<bool>visited(numCourses,false) ;
+        
+        vector<bool>inRecursion(numCourses,false);
+
+        vector<int>adj[numCourses] ;
+
+        for(const auto &p : prerequisites)
+        {
+            int course = p[0] ;
+            int pre = p[1] ;
+
+            adj[pre].push_back(course) ;
+        }
+         
          for(int i = 0 ; i < numCourses ; i++)
          {
-            if(indegree[i] == 0)
-            { 
-                count++ ;
-               q.push(i) ;
-            }
+            if(visited[i] == false && iscycleDFS(adj , visited , inRecursion , i))
+            return false ;
          }
+         return true ;
 
-         while(!q.empty())
-         {
-            int u = q.front() ;
-            q.pop() ;
-            for( int &v : adj[u])
-            { 
-
-                indegree[v]-- ;
-                if(indegree[v] == 0)
-                {
-                  q.push(v); 
-                  count++ ;
-                }
-                
-            }
-         }
-       
-       if(count == numCourses)
-       return true ;
-       return false ; 
-     
     }
 };
