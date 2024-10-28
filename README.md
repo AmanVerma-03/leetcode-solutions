@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0801-is-graph-bipartite](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0801-is-graph-bipartite) |
 | [1484-linked-list-in-binary-tree](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1484-linked-list-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0801-is-graph-bipartite](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0801-is-graph-bipartite) |
 | [1484-linked-list-in-binary-tree](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0801-is-graph-bipartite) |
 ## Linked List
 |  |
 | ------- |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0801-is-graph-bipartite) |
 ## Topological Sort
 |  |
 | ------- |
