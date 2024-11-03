@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0812-rotate-string](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0812-rotate-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -302,4 +303,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0207-course-schedule) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
