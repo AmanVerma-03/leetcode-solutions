@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2411-spiral-matrix-iv](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2411-spiral-matrix-iv) |
 | [2727-number-of-senior-citizens](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2727-number-of-senior-citizens) |
+| [3291-find-if-array-can-be-sorted](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Matrix
 |  |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [3291-find-if-array-can-be-sorted](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/3291-find-if-array-can-be-sorted) |
 ## Counting
 |  |
 | ------- |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [3291-find-if-array-can-be-sorted](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/3291-find-if-array-can-be-sorted) |
 ## Prefix Sum
 |  |
 | ------- |
