@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1940-maximum-xor-for-each-query](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1940-maximum-xor-for-each-query](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/3291-find-if-array-can-be-sorted) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1435-xor-queries-of-a-subarray](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1435-xor-queries-of-a-subarray) |
+| [1940-maximum-xor-for-each-query](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Dynamic Programming
 |  |
