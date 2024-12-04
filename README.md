@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2727-number-of-senior-citizens](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2727-number-of-senior-citizens) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3451-string-compression-iii](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/3451-string-compression-iii) |
 ## Trie
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Interactive
 |  |
 | ------- |
