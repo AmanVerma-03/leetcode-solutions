@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2411-spiral-matrix-iv](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2411-spiral-matrix-iv) |
 | [2727-number-of-senior-citizens](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2727-number-of-senior-citizens) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Matrix
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Math
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Hash Table
 |  |
 | ------- |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/3291-find-if-array-can-be-sorted) |
 ## Counting
 |  |
