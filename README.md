@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2411-spiral-matrix-iv](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2411-spiral-matrix-iv) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2727-number-of-senior-citizens](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2727-number-of-senior-citizens) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/3291-find-if-array-can-be-sorted) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2411-spiral-matrix-iv](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2411-spiral-matrix-iv) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Union Find
 |  |
 | ------- |
@@ -330,4 +332,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0812-rotate-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 <!---LeetCode Topics End-->
