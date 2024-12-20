@@ -3,6 +3,8 @@ public:
     vector<int> productExceptSelf(vector<int>& nums) {
         int n = nums.size(); 
         vector<int> result(n); 
+
+        /*
         int count_zero = 0; // Count the number of zeros in the array
         int product_without_zero = 1; // Product of all non-zero elements in the array
 
@@ -38,5 +40,22 @@ public:
         }
 
         return result; // Return the result array
+
+        */
+// Compute left products for each element
+        result[0] = 1;
+        for (int i = 1; i < n; i++) {
+            result[i] = result[i - 1] * nums[i - 1];
+        }
+
+        // Compute right products and update result in place
+        int right_product = 1;
+        for (int i = n - 1; i >= 0; i--) {
+            result[i] *= right_product;
+            right_product *= nums[i];
+        }
+
+        return result;  
     }
 };
+
