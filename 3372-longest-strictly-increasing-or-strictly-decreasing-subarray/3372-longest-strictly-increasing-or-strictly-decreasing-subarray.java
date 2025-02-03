@@ -1,34 +1,28 @@
 class Solution {
     public int longestMonotonicSubarray(int[] nums) {
-        int count1 = 1 ;
-        int count2 = 1 ;
-        int maxcount = 0 ;
-        int maxcount2= 0 ;
-        int  n = nums.length ; 
-        for(int i = 0 ; i < n-1 ; i++)
-        {
-            if(nums[i] < nums[i+1])
-            count1++ ;
-            else
-            {
-                maxcount = Math.max(maxcount,count1);
-                count1 = 1 ;
+        // Variables to track the length of increasing and decreasing subarrays
+        int inc = 1, dec = 1, maxLen = 1;
+        int n = nums.length;
+
+        // Iterate through the array starting from the second element
+        for (int i = 1; i < n; i++) {
+            // If current element is greater than the previous one, increase the 'inc' count
+            if (nums[i] > nums[i - 1]) {
+                inc++;
+            } else {
+                inc = 1; // Reset 'inc' if sequence is broken
             }
-        }
-        maxcount = Math.max(maxcount,count1) ;
-        for(int i = 0 ; i < n-1 ; i++)
-        {
-            if(nums[i] > nums[i+1])
-            count2++ ;
-            else
-            {
-                maxcount2 = Math.max(maxcount2,count2);
-                count2 = 1 ;
+
+            // If current element is smaller than the previous one, increase the 'dec' count
+            if (nums[i] < nums[i - 1]) {
+                dec++;
+            } else {
+                dec = 1; // Reset 'dec' if sequence is broken
             }
+
+            // Update maxLen with the maximum length of either increasing or decreasing sequence
+            maxLen = Math.max(maxLen, Math.max(inc, dec));
         }
-          maxcount2 = Math.max(maxcount2,count2) ;
-        int mx = 0 ;
-        mx = Math.max(maxcount, maxcount2) ;
-        return mx ;
+        return maxLen;
     }
 }
