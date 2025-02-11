@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/3447-clear-digits) |
 ## Bit Manipulation
 |  |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-walking-robot-simulation](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0906-walking-robot-simulation) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2155-find-missing-observations) |
 | [2232-adding-spaces-to-a-string](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2232-adding-spaces-to-a-string) |
