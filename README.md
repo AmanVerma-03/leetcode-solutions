@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2155-find-missing-observations) |
 | [2383-add-two-integers](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2383-add-two-integers) |
 | [2448-count-number-of-bad-pairs](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2448-count-number-of-bad-pairs) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Divide and Conquer
 |  |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0046-permutations) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Graph
 |  |
 | ------- |
