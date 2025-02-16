@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1791-richest-customer-wealth) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1940-maximum-xor-for-each-query) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/0046-permutations) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/AmanVerma-03/leetcode-solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Graph
 |  |
